@@ -1,2 +1,6 @@
 sdsasbb
+<<<<<<< HEAD
 shhddhsh
+=======
+fbdfbhbajfd
+>>>>>>> 6c4bf64c76a735e66583f9dfc81e43a420fa1119
